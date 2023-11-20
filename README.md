@@ -1,11 +1,10 @@
 # INFO-201-ps05
 
-Instructions
-You should answer the questions below in that file, knit it, and submit both the compiled html and
-link to your repo on canvas.
-• This problem sets asks you to write extensively when commenting your results. Please write
-clearly! Answer questions in a way that if the code chunks are hidden then the result is still
-readable!
+## Instructions
+
+### You should answer the questions below in that file, knit it, and submit both the compiled html and link to your repo on canvas.
+#### • This problem sets asks you to write extensively when commenting your results. Please write clearly! 
+#### Answer questions in a way that if the code chunks are hidden then the result is still readable!
 – All substantial questions need explanations. You do not have to explain the simple things
 like “how many rows are there in data”, but if you make a plot of life expectancy, then
 you should explain what does the plot tell you.
